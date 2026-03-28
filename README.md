@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dushyant 👋
+I'm a coding enthusiast learning Python,Excel,SQL,ML. I enjoy building small projects and experimenting with new technologies.
 
-<!--
-**Dushyant8810kr/Dushyant8810kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
+- Python 🐍
+- JavaScript ⚡
+- MATLAB 📊
+- Git & GitHub 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dushyant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dushyant8810kr&show_icons=true&theme=radical)
+
+
+## Learning Journey
+Currently exploring advanced Python concepts 🚀
